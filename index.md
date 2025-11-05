@@ -1,7 +1,7 @@
 # Quarter 2 Brainstorm
 
 **Name / Email:**  
-Your Name — ncchu@ucsd.edu
+Nolan Chu — ncchu@ucsd.edu
 
 **Section / Mentor:**  
 Section B05 — Mentor: Duncan Watson-Parris
